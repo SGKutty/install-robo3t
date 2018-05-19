@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Install Robo 3T
+tagline:             'Robo 3T'
+description:         'Install Robo 3T'
+url:                 https://golang.org
+baseurl:             '/install-robo3t'
+paginate:            5
+resource:            '/docs'
+
+# About/contact
+author:
+  name:              Georgekutty Joyes
+
+# Github
+
+github:
+  repo:             https://github.com/SGKutty/install-robo3t
+
+# Custom vars
+version:             1.0.0
